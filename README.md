@@ -1,4 +1,4 @@
-# Coursera-Gettin-gand-Cleaning-Data
+# Coursera-Getting-and-Cleaning-Data
 
 This Readme file describes the Assignment: Getting and Cleaning Data Course Project, the files involved, and the different script files to solve it.
 
