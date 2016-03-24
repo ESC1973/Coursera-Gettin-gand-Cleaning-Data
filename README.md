@@ -1,7 +1,9 @@
 # Coursera-Gettin-gand-Cleaning-Data
 
 This Readme file describes the Assignment: Getting and Cleaning Data Course Project, the files involved, and the different script files to solve it.
+
 Preparation:
+
 1. First you will need to download the Samsung data from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 2. Unzip the downloaded file and rename the folder to "Data".
